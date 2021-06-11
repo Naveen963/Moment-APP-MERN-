@@ -11,7 +11,7 @@ export default makeStyles((theme) => ({
   },
   heading: {
     color: 'rgba(9,10,20, 12)',
-    textShadow: '1px 2px blue',
+    textShadow: '1px 1px blue',
    
     
   },
